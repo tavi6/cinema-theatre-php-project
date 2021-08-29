@@ -1,0 +1,116 @@
+body {
+    padding: 0;
+    margin: 0;
+    background:#e3ecfa;
+}
+.navbar {
+    background:#175acf;
+}
+.nav-link,
+.navbar-brand {
+    color: #fff;
+    cursor: pointer;
+}
+#headerTxt{
+    color: white;
+    cursor: auto;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: #000;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+.footerTxt{
+    text-align: center;
+    background-color: #222;
+    color: #666;
+    padding-top: 75px;
+    padding-bottom: 125px;
+}
+footer{
+    height: 200px;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+table {
+    margin: 0 auto;
+}
+
+h1{
+    margin-bottom: 30px;
+}
+td{
+    padding: 5px;
+}
+
+.errorMsg{
+    color: red;
+    width: 200px;
+    text-align: left;
+}
+
+#loginContainer {
+    padding-top: 200px;
+    vertical-align: center;
+    height: 700px;
+    overflow: hidden;
+    text-align: center;
+}
+#seatContainer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    overflow: hidden;
+    text-align: center;
+}
+#ticketInfoContainer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    overflow: hidden;
+    text-align: center;
+    height: 80%;
+}
+
+.content{
+    overflow: hidden;
+    text-align: center;
+}
+.movieInfoContainer{
+    margin-left: 20px;
+    width: 600px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.posterContainer {
+    padding-top: 50px;
+}
+
+.posterCell{
+    vertical-align: text-top;
+}
+
+.movieTime{
+    width: 150px;
+    text-align: center;
+    font-size: 2em;
+}
+
+.movieTitle{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.movieDescription {
+    width: 600px;
+    text-align: justify;
+}
+
+.movieTblRow{
+    border-bottom: 1pt solid black;
+}
