@@ -1,5 +1,5 @@
 ## About The Project
-Individual Humber ITS PHP project - "Cinema tickets booking website".
+"Cinema tickets booking website" - Academic individual project for Humber College ITS, course ITE5330.
 
 ## Build with
 * PHP
